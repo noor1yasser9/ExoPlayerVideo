@@ -11,7 +11,7 @@ by Google which write in JAVA and have more advantages than MediaPlayer such as 
 - exoplayer
 
 ## 🕹 Sample Video
-<img src="https://user-images.githubusercontent.com/41232970/121724681-e2be0d80-caf0-11eb-89ff-93c548b5c5a4.gi" width="300"/>
+<img src="https://github.com/noor1yasser9/ExoPlayerVideo/issues/1#issue-918996795" width="300"/>
 
 
 
