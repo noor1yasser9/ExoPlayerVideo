@@ -11,8 +11,7 @@ by Google which write in JAVA and have more advantages than MediaPlayer such as 
 - exoplayer
 
 ## 🕹 Sample Video
-<video src="https://user-images.githubusercontent.com/41232970/126894454-e2f885e3-d080-40bb-8b4b-e1c7e9268c19.mp4"></video>
-
+<img src="https://user-images.githubusercontent.com/41232970/121724681-e2be0d80-caf0-11eb-89ff-93c548b5c5a4.gif" width="300"/>
 
 ```groovy
     dependencies {
